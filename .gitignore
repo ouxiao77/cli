@@ -1,0 +1,24 @@
+# 本地研究数据与可能包含患者信息的生成文件
+/data/raw/
+/data/interim/
+/data/processed/
+/outputs/*
+!/outputs/README.md
+/manuscript/drafts/
+/manuscript/exports/
+/references/fulltext/
+/config/*.local.json
+/config/*.local.*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/

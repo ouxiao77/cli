@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "project": "OK lens research workbench",
+  "mode": "scaffold",
+  "input_file": null,
+  "source_sheet": "分析就绪_宽表",
+  "id_column": null,
+  "al_months": [0, 6, 12],
+  "main_optical_zones_mm": [5.0, 5.5],
+  "extension_optical_zones_mm": [6.0],
+  "udva_pass_decimal": 0.8,
+  "expected_cohort_n": null
+}
